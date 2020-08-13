@@ -1,9 +1,6 @@
 import telebot, random, pyowm, wikipedia, urllib3, string
-from googletrans import Translator
 from telebot import types
 
-from google import google
-from serpwow.google_search_results import GoogleSearchResults
 import json
 # import url_short as sh
 
